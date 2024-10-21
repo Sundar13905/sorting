@@ -188,6 +188,18 @@ int main(){
 
 ## Code Output
 
+## Selection Sort 
+![](https://github.com/Sundar13905/sorting/blob/main/Screenshot%202024-10-21%20131627.png)
+
+## Insertion Sort
+![](https://github.com/Sundar13905/sorting/blob/main/Screenshot%202024-10-21%20130338.png)
+
+## Bubble sort
+![](https://github.com/Sundar13905/sorting/blob/main/Screenshot%202024-10-21%20130338.png)
+
+
+
+## 
 
 
 
